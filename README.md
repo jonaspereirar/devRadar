@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="https://github.com/jonaspereirar/tindev/blob/master/download.svg" width="250px" />
+    <img alt="tindev" src="https://github.com/jonaspereirar/tindev/blob/master/download.svg" width="250px" />
 </h1>
 
 <h4 align="center">
