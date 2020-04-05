@@ -32,7 +32,7 @@
 <br>
 
 <p align="center">
-  <img alt="Frontend" src=".github/devradar.png" width="100%">
+  <img alt="Frontend" src="https://github.com/jonaspereirar/tindev/blob/master/Apresenta%C3%A7%C3%A3o.png" width="100%">
 </p>
 
 ## :rocket: Tecnologias
